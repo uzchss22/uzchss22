@@ -1,24 +1,20 @@
 # 최혁
----
 ## About Me
 I am a Computer Engineering student at university.
 
-🙃 "Everybody's great when they're not tired. The champions is when they tired, that's when the real champions come out."
+> 🙃 "Everybody's great when they're not tired. The champions is when they tired, that's when the real champions come out."
 
----
 ## Skills
 - **Languages**: Python, Java, C, PHP
 - **Frameworks**: React, Flask, Spring Boot
 - **Tools & Platforms**: Git, Docker, AWS
 
----
 ## Projects
 - <a href="https://chromewebstore.google.com/detail/extension-manager/mjbafigngmefpifdgkjolhngfllenelj" target="_blank"><img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"></a><br>
 - Collaborative Web Editor
 - Eisenhower Matrix scheduler IOS App
 
 
----
 ## Links
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=choihyeok02@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -30,8 +26,6 @@ I am a Computer Engineering student at university.
 <img src="https://img.shields.io/badge/Blog-FFD54D?style=for-the-badge&logo=bricks&logoColor=white">
 </a>
 
----
-## 
 
 
 
