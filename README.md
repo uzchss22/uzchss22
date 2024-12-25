@@ -11,7 +11,14 @@ I am a Computer Engineering student at university.
 
 ---
 ## Projects
-<a href="https://chromewebstore.google.com/detail/extension-manager/mjbafigngmefpifdgkjolhngfllenelj" target="_blank"> <img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"></a>
+<a href="https://chromewebstore.google.com/detail/extension-manager/mjbafigngmefpifdgkjolhngfllenelj" target="_blank"><img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"></a>
+
+
+---
+## Links
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=choihyeok02@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 
 <!--
