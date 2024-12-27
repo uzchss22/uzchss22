@@ -22,7 +22,7 @@ I am a Computer Engineering student at university.
 <a href="https://billowy-secure-66c.notion.site/6e829b3a84ef4272be8375d577823b5b" target="_blank">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
-<a href="https://billowy-secure-66c.notion.site/6e829b3a84ef4272be8375d577823b5b" target="_blank">
+<a href="[https://billowy-secure-66c.notion.site/6e829b3a84ef4272be8375d577823b5b](https://hyeoksdevblog.netlify.app/)" target="_blank">
 <img src="https://img.shields.io/badge/Blog-FFD54D?style=for-the-badge&logo=bricks&logoColor=white">
 </a>
 
