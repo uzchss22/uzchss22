@@ -10,7 +10,7 @@ I am a Computer Engineering student at university.
 - **Tools & Platforms**: Git, Docker, AWS
 
 ## Projects
-- <a href="https://chromewebstore.google.com/detail/extension-manager/mjbafigngmefpifdgkjolhngfllenelj" target="_blank"><img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"></a><br>
+- Chrome Extension manager <a href="https://chromewebstore.google.com/detail/extension-manager/mjbafigngmefpifdgkjolhngfllenelj" target="_blank"><img src="https://img.shields.io/badge/chromewebstore-4285F4?style=for-the-badge&logo=chromewebstore&logoColor=white"></a><br>
 - Collaborative Web Editor
 - Eisenhower Matrix scheduler IOS App
 
